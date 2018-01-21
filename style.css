@@ -1,6 +1,16 @@
-html{
-	background-color: #333;
+html,body{
+	color:#FF2222;
+	
+	height: 100%;
+	background: #333;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 }
 #demo{
-	color:red;
+font-size: 5em;
+}
+h1{
+	color: #EEE
 }
