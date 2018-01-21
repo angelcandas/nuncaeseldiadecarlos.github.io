@@ -1,5 +1,10 @@
+@font-face{
+	font-family: "Digital-7";
+	src: url("digital-7.ttf") format("ttf");
+}
+
 html,body{
-	color:#FF2222;
+	color:#DD2222;
 	
 	height: 100%;
 	background: #333;
@@ -9,8 +14,13 @@ html,body{
 	flex-direction: column;
 }
 #demo{
+font-family: 'Orbitron', sans-serif;
 font-size: 5em;
 }
 h1{
-	color: #EEE
+	color: #EEE;
+	font-family: 'Montserrat', sans-serif;
+}
+img{
+
 }
